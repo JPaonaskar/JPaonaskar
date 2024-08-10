@@ -4,6 +4,9 @@ My name is Josha Paonaskar (AKA *IntoTheStorm880*) and welcome to my github!
  
 ## Project Highlights
 
+### SoftBody Engine
+![A cool image I took](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/SoftBody.gif)
+
 ## Programming Languages
 * Python
 * C++
@@ -23,6 +26,8 @@ My name is Josha Paonaskar (AKA *IntoTheStorm880*) and welcome to my github!
   - Analysis with ML
   - Behavioral prediction and analysis
   - Climate prediction and analysis
+ 
+## Addional Projects
 
 <!--
 **JPaonaskar/JPaonaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

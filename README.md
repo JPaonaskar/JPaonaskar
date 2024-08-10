@@ -1,3 +1,5 @@
+![A cool image I took](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/header.jpg)
+
 My name is Josha Paonaskar (AKA *IntoTheStorm880*) and welcome to my github! 
 
 ## Intrests
@@ -8,6 +10,7 @@ My name is Josha Paonaskar (AKA *IntoTheStorm880*) and welcome to my github!
 * Aerodynamics
   - Aircraft Design
   - Aircraft Optimization
+  - Flow Visualization
 * Data Science
   - Analysis with ML
   - Behavioral prediction and analysis

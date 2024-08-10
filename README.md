@@ -1,4 +1,19 @@
-## Hi there 👋
+My name is Josha Paonaskar (AKA *IntoTheStorm880*) and welcome to my github! 
+
+## Intrests
+* Machine Leaning
+  - Computer Vision
+  - Reinforcement Learning
+  - Generative AI
+* Aerodynamics
+  - Aircraft Design
+  - Aircraft Optimization
+* Data Science
+  - Analysis with ML
+  - Behavioral prediction and analysis
+  - Climate prediction and analysis
+ 
+## Project Highlights
 
 <!--
 **JPaonaskar/JPaonaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

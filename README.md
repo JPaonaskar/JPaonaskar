@@ -1,6 +1,14 @@
 ![A cool image I took](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/header.jpg)
 
-My name is Josha Paonaskar (AKA *IntoTheStorm880*) and welcome to my github! 
+My name is Josha Paonaskar (AKA *IntoTheStorm880*) and welcome to my github!
+ 
+## Project Highlights
+
+## Programming Languages
+* Python
+* C++
+* Java
+* JavaScript
 
 ## Intrests
 * Machine Leaning
@@ -15,8 +23,6 @@ My name is Josha Paonaskar (AKA *IntoTheStorm880*) and welcome to my github!
   - Analysis with ML
   - Behavioral prediction and analysis
   - Climate prediction and analysis
- 
-## Project Highlights
 
 <!--
 **JPaonaskar/JPaonaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

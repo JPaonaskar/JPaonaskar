@@ -7,6 +7,11 @@ My name is Josha Paonaskar (AKA *IntoTheStorm880*) and welcome to my github!
 ### SoftBody Engine
 ![A cool image I took](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/SoftBody.gif)
 
+### Machine Learning
+Converting a game into a RL enviormemt
+Behavior Cloning -> RL
+*Updates coming soon*
+
 ## Programming Languages
 * Python
 * C++

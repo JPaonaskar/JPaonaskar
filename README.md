@@ -9,7 +9,9 @@ My name is Josha Paonaskar (AKA *IntoTheStorm880*) and welcome to my github!
 
 ### Machine Learning
 Converting a game into a RL enviormemt
+
 Behavior Cloning -> RL
+
 *Updates coming soon*
 
 ## Programming Languages

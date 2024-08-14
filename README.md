@@ -4,8 +4,8 @@ My name is Josha Paonaskar (AKA *IntoTheStorm880*) and welcome to my github!
  
 ## Project Highlights
 
-### SoftBody Engine
-![A cool image I took](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/SoftBody.gif)
+### Background Oriented Schlieren
+![Airflow from a Candle](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/BOS.gif)
 
 ### Machine Learning
 Converting a game into a RL enviormemt
@@ -35,6 +35,9 @@ Behavior Cloning -> RL
   - Climate prediction and analysis
  
 ## Addional Projects
+
+### SoftBody Engine
+![A bouncy rectangle](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/SoftBody.gif)
 
 <!--
 **JPaonaskar/JPaonaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

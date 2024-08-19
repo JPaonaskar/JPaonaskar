@@ -7,13 +7,6 @@ My name is Josha Paonaskar (AKA *IntoTheStorm880*) and welcome to my github!
 ### Background Oriented Schlieren
 ![Airflow from a Candle](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/BOS.gif)
 
-### Machine Learning
-Converting a game into a RL enviormemt
-
-Behavior Cloning -> RL
-
-*Updates coming soon*
-
 ## Programming Languages
 * Python
 * C++
@@ -38,6 +31,13 @@ Behavior Cloning -> RL
 
 ### SoftBody Engine
 ![A bouncy rectangle](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/SoftBody.gif)
+
+### Machine Learning
+Converting a game into a RL environment
+
+Behavioral Cloning -> RL
+
+*Updates maybe coming soon*
 
 <!--
 **JPaonaskar/JPaonaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

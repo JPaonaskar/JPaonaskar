@@ -4,8 +4,15 @@ My name is Josha Paonaskar (AKA *IntoTheStorm880*) and welcome to my github!
  
 ## Project Highlights
 
-### Background Oriented Schlieren
+### Background Oriented Schlieren (BOS)
 ![Airflow from a Candle](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/BOS.gif)
+
+### neural-bos
+Training GAN with Map dataset showed understanding of roads and their directionality. Synthetic BOS-images will be used for future training.
+
+| Input Images | Target Images | Predicted Image |
+| --- | --- | --- |
+| ![Input Images](https://github.com/JPaonaskar/neural-bos/blob/main/figures/Map_GAN_Input.png) | ![Target Images](https://github.com/JPaonaskar/neural-bos/blob/main/figures/Map_GAN_Target.png) | ![Predicted Images](https://github.com/JPaonaskar/neural-bos/blob/main/figures/Map_GAN_Pred.png) |
 
 ## Programming Languages
 * Python

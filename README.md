@@ -10,9 +10,10 @@ My name is Josha Paonaskar (AKA *IntoTheStorm880*) and welcome to my github!
 ### neural-bos
 Training GAN with Map dataset showed understanding of roads and their directionality. Synthetic BOS-images will be used for future training.
 
-| Input Images | Target Images | Predicted Image |
-| --- | --- | --- |
-| ![Input Images](https://github.com/JPaonaskar/neural-bos/blob/main/figures/Map_GAN_Input.png) | ![Target Images](https://github.com/JPaonaskar/neural-bos/blob/main/figures/Map_GAN_Target.png) | ![Predicted Images](https://github.com/JPaonaskar/neural-bos/blob/main/figures/Map_GAN_Pred.png) |
+|     | Input Images | Target Images | Predicted Image |
+| --- | --- | --- | --- |
+| BOS | ![Input Images](https://github.com/JPaonaskar/neural-bos/blob/main/figures/BOS_GAN_Input.png) | ![Target Images](https://github.com/JPaonaskar/neural-bos/blob/main/figures/BOS_GAN_Target.png) | ![Predicted Images](https://github.com/JPaonaskar/neural-bos/blob/main/figures/BOS_GAN_Pred.png) |
+| MAP | ![Input Images](https://github.com/JPaonaskar/neural-bos/blob/main/figures/Map_GAN_Input.png) | ![Target Images](https://github.com/JPaonaskar/neural-bos/blob/main/figures/Map_GAN_Target.png) | ![Predicted Images](https://github.com/JPaonaskar/neural-bos/blob/main/figures/Map_GAN_Pred.png) |
 
 ## Programming Languages
 * Python

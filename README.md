@@ -8,7 +8,7 @@ My name is Josha Paonaskar (AKA *IntoTheStorm880*) and welcome to my github!
 ![Airflow from a Candle](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/BOS.gif)
 
 ### neural-bos
-Training GAN with Map dataset showed understanding of roads and their directionality. Synthetic BOS-images will be used for future training.
+Strong success with both maps and augmented synthetic BOS data. Real data will be tested soon.
 
 |     | Input Images | Target Images | Predicted Image |
 | --- | --- | --- | --- |

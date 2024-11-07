@@ -12,8 +12,8 @@ Strong success with both maps and augmented synthetic BOS data. Real data will b
 
 |     | Input Images | Target Images | Predicted Image |
 | --- | --- | --- | --- |
-| BOS | ![Input Images](https://github.com/JPaonaskar/neural-bos/blob/main/figures/BOS_GAN_Input.png) | ![Target Images](https://github.com/JPaonaskar/neural-bos/blob/main/figures/BOS_GAN_Target.png) | ![Predicted Images](https://github.com/JPaonaskar/neural-bos/blob/main/figures/BOS_GAN_Pred.png) |
-| MAP | ![Input Images](https://github.com/JPaonaskar/neural-bos/blob/main/figures/Map_GAN_Input.png) | ![Target Images](https://github.com/JPaonaskar/neural-bos/blob/main/figures/Map_GAN_Target.png) | ![Predicted Images](https://github.com/JPaonaskar/neural-bos/blob/main/figures/Map_GAN_Pred.png) |
+| BOS | ![Input Images](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/BOS_GAN_Input.png) | ![Target Images](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/BOS_GAN_Target.png) | ![Predicted Images](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/BOS_GAN_Pred.png) |
+| MAP | ![Input Images](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/Map_GAN_Input.png) | ![Target Images](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/Map_GAN_Target.png) | ![Predicted Images](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/Map_GAN_Pred.png) |
 
 ## Programming Languages
 * Python

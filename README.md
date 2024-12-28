@@ -8,7 +8,7 @@ My name is Josha Paonaskar (AKA *IntoTheStorm880*) and welcome to my github!
 ![Airflow from a Candle](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/BOS.gif)
 
 ### neural-bos
-Strong success with both maps and augmented synthetic BOS data. Real data will be tested soon.
+Strong success with both maps and augmented synthetic BOS dataset. Simulated flow BOS dataset will be developed and tested soon. Keep an eye out for a paper in March!
 
 |     | Input Images | Target Images | Predicted Image |
 | --- | --- | --- | --- |

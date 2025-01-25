@@ -7,14 +7,6 @@ My name is Josha Paonaskar (AKA *IntoTheStorm880*) and welcome to my github!
 ### Background Oriented Schlieren (BOS)
 ![Airflow from a Candle](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/BOS.gif)
 
-### neural-bos
-Strong success with both maps and augmented synthetic BOS dataset. Simulated flow BOS dataset will be developed and tested soon. Keep an eye out for a paper in March!
-
-|     | Input Images | Target Images | Predicted Image |
-| --- | --- | --- | --- |
-| BOS | ![Input Images](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/BOS_GAN_Input.png) | ![Target Images](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/BOS_GAN_Target.png) | ![Predicted Images](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/BOS_GAN_Pred.png) |
-| MAP | ![Input Images](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/Map_GAN_Input.png) | ![Target Images](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/Map_GAN_Target.png) | ![Predicted Images](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/Map_GAN_Pred.png) |
-
 ## Programming Languages
 * Python
 * C++

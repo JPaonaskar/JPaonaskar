@@ -4,6 +4,11 @@ My name is Josha Paonaskar (AKA *IntoTheStorm880*) and welcome to my github!
  
 ## Project Highlights
 
+### neural-bos
+Using simulated denity fields to generate BOS-images showed very promissing success but was prone to overfitting.
+
+![Results](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/Candle.gif)
+
 ### Background Oriented Schlieren (BOS)
 ![Airflow from a Candle](https://github.com/JPaonaskar/JPaonaskar/blob/main/images/BOS.gif)
 

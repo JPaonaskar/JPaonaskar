@@ -36,6 +36,10 @@ Input, gound truth, three point gaussing, and Neural-BOS respectively
   - Analysis with ML
   - Behavioral prediction and analysis
   - Climate prediction and analysis
+
+## Desmos
+  - [Orbital Mechanics - Ground Tracking](https://www.desmos.com/calculator/3c9a80104f)
+  - [Raytracing - 3D](https://www.desmos.com/calculator/bfaf8084a9)
  
 ## Addional Projects
 
